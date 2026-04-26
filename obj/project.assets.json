@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ilhamva\\.nuget\\packages\\": {},
+    "C:\\Users\\sevilhp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilhamva\\source\\repos\\just cargo\\just cargo\\just cargo.csproj",
+      "projectUniqueName": "C:\\Users\\sevilhp\\Desktop\\aa\\Cargo-system\\just cargo.csproj",
       "projectName": "just cargo",
-      "projectPath": "C:\\Users\\ilhamva\\source\\repos\\just cargo\\just cargo\\just cargo.csproj",
-      "packagesPath": "C:\\Users\\ilhamva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilhamva\\source\\repos\\just cargo\\just cargo\\obj\\",
+      "projectPath": "C:\\Users\\sevilhp\\Desktop\\aa\\Cargo-system\\just cargo.csproj",
+      "packagesPath": "C:\\Users\\sevilhp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sevilhp\\Desktop\\aa\\Cargo-system\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ilhamva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sevilhp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

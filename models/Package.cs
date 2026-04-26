@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace just_cargo.models
 {
-    internal class Package
+    public class Package
     {
+
     }
 }

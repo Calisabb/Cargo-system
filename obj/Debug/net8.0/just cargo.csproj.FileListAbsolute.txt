@@ -1,0 +1,15 @@
+C:\Users\sevilhp\Desktop\aa\Cargo-system\bin\Debug\net8.0\just cargo.exe
+C:\Users\sevilhp\Desktop\aa\Cargo-system\bin\Debug\net8.0\just cargo.deps.json
+C:\Users\sevilhp\Desktop\aa\Cargo-system\bin\Debug\net8.0\just cargo.runtimeconfig.json
+C:\Users\sevilhp\Desktop\aa\Cargo-system\bin\Debug\net8.0\just cargo.dll
+C:\Users\sevilhp\Desktop\aa\Cargo-system\bin\Debug\net8.0\just cargo.pdb
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\just cargo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\just cargo.AssemblyInfoInputs.cache
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\just cargo.AssemblyInfo.cs
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\just cargo.csproj.CoreCompileInputs.cache
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\just cargo.sourcelink.json
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\just cargo.dll
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\refint\just cargo.dll
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\just cargo.pdb
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\just cargo.genruntimeconfig.cache
+C:\Users\sevilhp\Desktop\aa\Cargo-system\obj\Debug\net8.0\ref\just cargo.dll

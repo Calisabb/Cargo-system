@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("just cargo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8074c9e9b361235d1b0f251cc89c7b69c04f2f0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("just cargo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("just cargo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
